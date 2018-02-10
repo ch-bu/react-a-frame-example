@@ -40,6 +40,12 @@ module.exports = {
         //     }
         //   }
         // ]
+      },
+      { test: /\.png$/,
+        loader: "url-loader?mimetype=image/png"
+      },
+      { test: /\.jpg$/,
+        loader: "url-loader?mimetype=image/jpg"
       }
     ]
   },
