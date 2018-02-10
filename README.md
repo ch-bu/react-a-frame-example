@@ -1,2 +1,3 @@
-# react-vr-example
-A little react-vr app
+# ReactVR example
+
+A little app using ReactVR
