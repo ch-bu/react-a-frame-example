@@ -20,8 +20,13 @@
   "homepage": "https://github.com/ch-bu/react-a-frame-example#readme",
   "devDependencies": {
     "aframe": "^0.7.1",
+    "aframe-animation-component": "^4.0.0-beta9",
+    "aframe-particle-system-component": "^1.0.11",
+    "aframe-react": "^4.3.0",
+    "aframe-react-components": "0.0.1",
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
+    "babel-polyfill": "^6.26.0",
     "babel-preset-es2017": "^6.24.1",
     "babel-preset-latest": "^6.24.1",
     "babel-preset-react": "^6.24.1",
